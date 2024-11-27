@@ -1,3 +1,49 @@
+# Auth Guard Web Application
+A robust AuthGuard Web Application designed to manage user authentication and role-based access control (RBAC). This app empowers administrators to seamlessly handle user accounts, assign roles, define permissions, and enforce secure navigation across restricted sections of the application.
+
+Built with React.js and Material-UI, this responsive web application also includes advanced sorting and searching functionalities, making data management efficient and user-friendly. Additionally, it is built entirely with a front-end stack, utilizing mock CRUD functions to simulate database operations and backend functionality, ensuring a seamless experience without requiring a dedicated backend server.
+
+![Screenshot 2024-11-27 143445](https://github.com/user-attachments/assets/8d77c09d-47d4-4df4-8d8c-4cc551cdb9fd)
+
+![Screenshot 2024-11-27 144407](https://github.com/user-attachments/assets/8974f3ea-d063-43ee-8ec0-2bd42a3eeffd)
+
+## Features
+
+### User Management
+Create, edit, delete, and search users.
+### View user-specific roles and permissions in detail.
+Role Management
+### Define roles with customizable permissions.
+Edit or remove roles dynamically as per organizational needs.
+### Sorting & Searching
+Effortlessly sort user and role data.
+Search through users or roles using keywords.
+### Responsive Design
+Optimized for mobile and desktop views with intuitive UI components.
+
+## Tech Stack
+
+### Frontend: React.js, Material-UI
+### State Management: Context API or React Hooks
+### Mock Backend: JavaScript-based mock CRUD functions
+### Styling: Material-UI (Responsive Design)
+
+## Setup & Installation
+Clone the Repository
+
+### `git clone https://github.com/your-username/auth-guard-web-app.git`
+### `cd auth-guard-web-app`
+
+Install Dependencies
+
+### `npm install`
+Run the Application
+
+### `npm start`
+
+The app will be accessible at [http://localhost:3000]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
