@@ -1,4 +1,4 @@
-# Auth Guard Web Application
+# AuthGuard Web Application
 A robust AuthGuard Web Application designed to manage user authentication and role-based access control (RBAC). This app empowers administrators to seamlessly handle user accounts, assign roles, define permissions, and enforce secure navigation across restricted sections of the application.
 
 Built with React.js and Material-UI, this responsive web application also includes advanced sorting and searching functionalities, making data management efficient and user-friendly. Additionally, it is built entirely with a front-end stack, utilizing mock CRUD functions to simulate database operations and backend functionality, ensuring a seamless experience without requiring a dedicated backend server.
