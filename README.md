@@ -41,7 +41,7 @@ Run the Application
 
 ### `npm start`
 
-The app will be accessible at [http://localhost:3000]http://localhost:3000
+The app will be accessible at [http://localhost:3000](http://localhost:3000)
 
 
 # Getting Started with Create React App
